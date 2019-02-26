@@ -13,5 +13,5 @@
     "url": "git+https://github.com/svdgraaf/serverless-fargate-tasks.git"
   },
   "scripts": {},
-  "version": "0.0.7"
+  "version": "0.1.1"
 }
